@@ -21,6 +21,7 @@ function whileLoop(n){
   return "done";
   
 }
+var num;
 function doWhileLoop(num)
 {
   var i = 0;
